@@ -20,4 +20,4 @@ czy mozemy nagrac spotkanie / ktoee tlumacza zagadnienia techniczne
 - pierwszy kwartal jest najwazniejszy 
 - markdowan / archiwzacja to bułka z masłem 
 
-bardzo tajny kod: 20947129847120
+nic tu nie ma 
