@@ -1,23 +1,17 @@
-# projektSDA
-co jest wazne 
+### ABOUT ME
+You can find me here 
 
-1. co tu dodać? 
-- historia projketu ktory realizuje 
-- jaki to jest projekt / dlaczego to do testowania 
-- kortkie podsumowanie
-- czy sprawila problemy? 
-- czego sie nauczyłam 
+### My repository contains: 
+history / why this one? / short description / what problem did I have / What I have learned 
 
-2. 5 roznych projketow 
-- moja java. - capsule 
+### My projects: 
+1. SDA projects - from the course 
+2. My capsule wordrobe 
+3. Calory calculator 
+4. 
+5. 
 
-### NOTATKI
-bardzo szczegolowe notatki o mojej pracy, wszystko notowac / notuj wszystko 
 
-### NAGRANIA
-czy mozemy nagrac spotkanie / ktoee tlumacza zagadnienia techniczne 
 
-- pierwszy kwartal jest najwazniejszy 
-- markdowan / archiwzacja to bułka z masłem 
 
-nic tu nie ma 
+> I learned how to use GitHub by myslef, so the history of this file is just a story of this journey :)
