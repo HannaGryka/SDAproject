@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#ZDTEST-140] Test formularza deklaracji darowizny (pok. nr. 3)</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://zdtestpol100.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [ZDTEST-140]&nbsp;<a href="https://zdtestpol100.atlassian.net/browse/ZDTEST-140">Test formularza deklaracji darowizny (pok. nr. 3)</a>
+            <span class="subText">
+               Created: 10/Jul/22                   &nbsp;Updated: 13/Jul/22
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">IN ACCEPTANCE</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://zdtestpol100.atlassian.net/secure/BrowseProject.jspa?id=10000">zdtestpol</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Test Case
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="628b41d31a437e00704144ee"
+                id="word_reporter_628b41d31a437e00704144ee"
+                href="https://zdtestpol100.atlassian.net/secure/ViewProfile.jspa?accountId=628b41d31a437e00704144ee">
+                    zdtestpol100
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-10139-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10139-value" class="value" bgcolor="#ffffff" width="80%">      0|i000j3:
+  </td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>Jako użytkownik chcę mieć dostęp do formularza darowizny, abym mógł wpłacać środki na PAH.</p>
+
+
+
+<p><b>Środowisko testowe:</b><br/>
+Komputer z nieprzerwanym dostępem do internetu. <br/>
+System operacyjny Windows 10 64bit ver. 1xxx<br/>
+Przeglądarka internetowa Google Chrome, wersja. 1xxxx</p>
+
+<p><b>Warunki wstępne:</b><br/>
+Użytkownik otwiera stronę w przeglądarce internetowej:  <a href="https://www.pajacyk.pl/wesprzyj/" title="smart-link" class="external-link" rel="nofollow noreferrer">https://www.pajacyk.pl/wesprzyj/</a> </p>
+
+
+<p><b>Priorytet:</b>  </p>
+
+<p><b>1</b> | 2 | 3 | 4 | 5 |</p>
+
+<p>Dawid, Hania, Ola.</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Comments</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-10098"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                    
+                
+        
+            <a class="user-hover" rel="628b41d31a437e00704144ee"
+                id="word_commented_628b41d31a437e00704144ee"
+                href="https://zdtestpol100.atlassian.net/secure/ViewProfile.jspa?accountId=628b41d31a437e00704144ee">
+                    zdtestpol100
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">13/Jul/22</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-10098"><td bgcolor="#ffffff">
+            <p>Dobra robota 👌 </p>
+
+<p>Kompleksowo, całościowo.</p>
+
+<p>Jedna wskazówka → w akcjach nie przesądzamy o tym, czego spodziewamy się po jej wykonaniu.</p>
+
+<p>I tak, np. zamiast “When / Sprawdzam czy zmiana waluty jest widoczna w formularzu.”, lepiej napisać “Zmieniam walutę” / “Ustawiam walutę na X”.</p>
+
+<p>Albo zamiast “When / Sprawdzam czy mogę wprowadzić własną kwotę darowizny.” lepiej napisać “Wprowadzam kwotę 500 zł jako kwotę własną darowizny”.</p>
+        </td></tr>
+            </table>
+Generated at Sat Jul 16 09:12:31 UTC 2022 by zdtestpol100 using Jira 1001.0.0-SNAPSHOT#100202-sha1:365db859db8370ac9d614291e075d48f308f0050.
+
+</body>
+</html>
